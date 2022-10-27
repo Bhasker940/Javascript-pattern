@@ -1,1 +1,1 @@
-# Javascript-pattern
+# Javascript Diamond pattern
